@@ -5,6 +5,7 @@ Tier: B - 2
 Name: 소수 찾기
 Language: C 99
 */
+
 #include <stdio.h>
 int main()
 {
