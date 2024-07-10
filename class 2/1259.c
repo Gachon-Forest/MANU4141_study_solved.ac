@@ -8,6 +8,7 @@ Language: C 99
 
 #include <stdio.h>
 #include <string.h>
+
 int main()
 {
     char num[6];
