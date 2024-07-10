@@ -7,6 +7,7 @@ Language: C 99
 */
 
 #include <stdio.h>
+
 int main()
 {
     char arr[50][51];
