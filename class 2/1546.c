@@ -5,6 +5,7 @@ Tier: B - 1
 Name: 평균
 Language: C 99
 */
+
 #include <stdio.h>
 
 int main() {
