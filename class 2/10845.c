@@ -19,11 +19,13 @@ void push(int x)
     Q[back_index++] = x;
 }
 
-int pop() {
+int pop() 
+{
     if (front_index == back_index) 
     {
         return -1;
-    } else 
+    }
+    else 
     {
         return Q[front_index++];
     }
@@ -44,7 +46,8 @@ int front()
     if (empty()) 
     {
         return -1;
-    } else 
+    } 
+    else 
     {
         return Q[front_index];
     }
@@ -55,7 +58,8 @@ int back()
     if (empty()) 
     {
         return -1;
-    } else 
+    } 
+    else 
     {
         return Q[back_index - 1];
     }
