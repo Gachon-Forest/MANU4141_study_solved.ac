@@ -6,6 +6,8 @@ Name: 요세푸스 문제 0
 Language: c++
 */
 
+// 일단 모르겠음
+
 #include <iostream>
 #include <vector>
 
